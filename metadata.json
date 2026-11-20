@@ -1,0 +1,6 @@
+{
+  "name": "VazãoLab — Aprenda Vazão Volumétrica",
+  "description": "Aplicativo interativo para alunos aprenderem vazão volumétrica (Q = V ÷ t), conversão de unidades (m³ para litros e minutos para segundos), simplificação mental e prova real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
